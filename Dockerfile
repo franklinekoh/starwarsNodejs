@@ -1,13 +1,11 @@
 FROM node:10
 
-RUN mkdir /app
-
 WORKDIR /app
 
-COPY package*.json ./
+COPY . /app
 
 RUN npm install
 
-EXPOSE 3000
+EXPOSE 5000
 
 CMD [ "node", "server.js" ]

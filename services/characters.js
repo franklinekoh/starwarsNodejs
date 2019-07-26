@@ -36,4 +36,3 @@ exports.fetchCharacterByUrl = async (url) => {
         return Promise.reject(e);
     }
 };
-
