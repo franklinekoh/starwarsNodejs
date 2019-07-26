@@ -13,5 +13,5 @@ movie, and getting the character list for a movie.<br>
 
 ### Docs
 
--   visit `http://localhost:${APP_PORT}` for API docs
+-   visit `http://localhost:${APP_PORT}/api-docs` for API docs
 

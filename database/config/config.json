@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "test",
-    "host": "127.0.0.1",
+    "username": "nodetest",
+    "password": "nodetest",
+    "database": "nodetest",
+    "host": "db4free.net",
     "dialect": "mysql",
     "operatorsAliases": false
   },
