@@ -15,3 +15,7 @@ movie, and getting the character list for a movie.<br>
 
 -   visit `http://localhost:${APP_PORT}/api-docs` for API docs
 
+### Live Url
+
+- https://young-sierra-41795.herokuapp.com/api-docs
+
