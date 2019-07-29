@@ -16,12 +16,12 @@
     "name": "Star Wars",
     "description": "Api for listing Star Wars data"
   }],
-  "host": "localhost:3000",
+  "host": "young-sierra-41795.herokuapp.com",
   "basePath": "/",
   "consumes": ["application/json"],
   "produces": ["application/json"],
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/movies": {
